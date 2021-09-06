@@ -1,7 +1,7 @@
 # Supervised-Machine-Learning-Algorithms
 
 *Supervised learning* is the types of machine learning in which machines are trained using well "labelled" training data, and on basis of that data, machines predict the output.
-This repository is a single site to the use cases of some common supervised machine learning algorithms.
+This repository is a single site to the use cases of some common supervised machine learning algorithms. They follow the basic steps of Preprocessing, Missing Value Analysis and Treatment, Data Transformation, Exploratory Data Analysis, Outlier Analysis and Treatment, Model Selection, Feature Selection, Min max scaling, Encoding, Model Building and Model Evaluation. 
 
 The datasets links for the algorithms are given below:
 
